@@ -1,0 +1,15 @@
+*BRIEFING NEWTECH STUDIO*
+
+*Nom du projet:* Mavaloo Store
+*Logo:* Oui
+*Photos/Vidéos:* Oui
+*Type de site:* Boutique
+*Email:* ulyssemarckenson@gmail.com
+*Téléphone:* +50937242888
+*Adresse:* 240,Lalue
+*Site existant:* www.mavalooboutique.com
+*Description:* Site pour mettre les photos des Vêtements en ligne, et pour que les clients puissent me payer en ligne par Moncash étant sur le site même.
+*Priorité:* Fonctionnalités avancées
+*Style visuel souhaité:* Simple et accessible
+
+*Date du briefing:* 28/11/2025 20:12:05
